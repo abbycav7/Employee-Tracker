@@ -6,7 +6,7 @@ Command-line Application to view and manage the departments, roles, and employee
 Clone the repositry from GitHub and open using Visual Studio Code.
 
 # Usage 
-[Demo Video](https://drive.google.com/file/d/1kR5lw5sJlITELfoM9XzxWWNWmD4t85m_/view?usp=sharing)
+[Demo Video]()
 
 ![alt text](./assets/images/ScreenShot.jpg)
 
